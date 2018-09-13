@@ -1,2 +1,3 @@
-a = "hello"
-p a 
+s1 = 'This is a string'
+s2 = 'Mrs. O`Leary'
+s3 = 'Visit in documents/practices.rb'
