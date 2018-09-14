@@ -12,3 +12,7 @@ str = "I'm a String"
 s1 = str.ljust(20)
 s2 = str.rjust(20)
 s3 = str.center(20)
+
+s4 = str.ljust(20,"+")
+s5 = str.rjust(20,"-")
+s6 = str.center(20,"#")
